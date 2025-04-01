@@ -65,7 +65,7 @@ Flags are named using their **ISO 3166-1 alpha-2 country codes**. Example:
 import { FlagUS } from '@venediktoff/react-flags';
 ```
 
-For a full list of supported flags, check the [`flags` directory](https://github.com/your-username/react-flags-library/tree/main/src/components/flags).
+For a full list of supported flags, check the [`flags` directory](https://github.com/venediktoff/react-flags/tree/main/src/components/flags).
 
 ## 📄 License
 
