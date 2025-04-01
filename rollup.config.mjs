@@ -15,7 +15,7 @@ export default {
       format: 'esm',
     },
   ],
-  external: ['react'],
+  external: ['react', 'react/jsx-runtime'],
   plugins: [
     resolve(),
     commonjs(),
